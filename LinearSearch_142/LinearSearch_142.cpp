@@ -26,6 +26,12 @@ void input()
 		cin >> arr[i];
 	}
 }
+
+void LinearSearch()
+{
+	char ch;
+	int ctr;
+}
 int main()
 {
     std::cout << "Hello World!\n";
