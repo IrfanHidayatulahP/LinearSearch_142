@@ -60,6 +60,7 @@ void LinearSearch()
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	input();
+	LinearSearch();
 }
 
